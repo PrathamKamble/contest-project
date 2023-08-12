@@ -1,0 +1,35 @@
+h1
+{
+    text-decoration: underline;
+    font-size: 28px;
+}
+
+p
+{
+    font-size: 18px;
+    text-align: justify;
+}
+
+a
+{
+    color: black;
+    font-size: 19px;
+}
+
+img
+{
+    margin-bottom: 10px;
+}
+
+#info
+{
+    border: 1px solid black;
+    padding: 0px 20px 20px 20px;
+}
+
+#list
+{
+    padding: 0px 0px 0px 19px;
+    line-height: 1.6;
+    font-size: 17px;
+}
